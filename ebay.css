@@ -1,0 +1,71 @@
+.ecke
+{
+	width: 700px;
+	margin: 20px auto 20px auto;
+	background-color: #E6D891;
+	color: #424242;
+	padding: 20px;
+	border-color: #CCC;
+	border-width: 1px;
+	border-style: solid;
+	text-align: left;
+}
+
+.ecke, .ecke p, .ecke ul, .ecke ol, .ecke div, .ecke b, .ecke i, .ecke h1, .ecke h2, .ecke h3, .ecke h4, .ecke span
+{
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 12px;
+}
+
+.ecke h1, .ecke h2, .ecke h3, .ecke h1 span, .ecke h2 span, .ecke h3 span
+{
+	margin-top: 0.5em;
+	font-size: 14px;
+}
+
+.ecke_small
+{
+	background-color: #FFF7C3;
+	padding: 10px;
+	margin: 5px 0;
+}
+
+.ecke_small, .ecke_small p, .ecke_small ul, .ecke_small ol, .ecke_small div, .ecke_small b, .ecke_small i, .ecke_small h1, .ecke_small h2, .ecke_small h3
+{
+	font-family: verdana, helvetica, arial, sans-serif;
+	font-size: 10px;
+}
+
+.ecke_small h1, .ecke_small h2, .ecke_small h3
+{
+	font-size: 12px;
+}
+
+.ecke ul, .ecke ol {
+	margin: 0 0 15pt 20pt;
+	padding: 0;
+}
+
+.ecke h4, .ecke .alert { color: #9A0301; }
+
+.ecke img
+{
+	margin: 0;
+}
+
+.ecke table
+{
+	width: 100%;
+	margin: 0;
+	padding: 0;
+	border-spacing: 1px;
+	border: 0 none;
+}
+
+/* standard table content */
+.ecke table td
+{
+	padding: 10px;
+	vertical-align: middle;
+	background-color: #FFF7C3;
+}
